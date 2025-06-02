@@ -1,16 +1,24 @@
-# polygon_animation
+#  Polygon Animation – Flutter
 
-A new Flutter project.
+A dynamic and visually engaging **Polygon Animation** built using Flutter’s animation and custom painting capabilities. This project showcases geometric animation principles and is perfect for experimenting with creative UI effects.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Animated polygon transformations  
+-  Customizable sides and animation styles  
+-  Smooth transitions using AnimationController and CustomPainter  
+-  Beautiful, fluid visuals powered by Flutter’s canvas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- CustomPainter  
+- AnimationController  
+- Tween & Transform
+
+
